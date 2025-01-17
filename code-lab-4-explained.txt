@@ -1,0 +1,11 @@
+i) Execution:
+   Compile each file with `gcc` and run the resulting executable.
+   Example: `gcc examples1.c -o example1 && ./example1`.
+
+ii) Example Usage and Output:
+   - `examples1.c`: Prints "Hello, World!".
+   - Usage: Compile and run with no input required.
+   - Output: "Hello, World!".
+
+iii) Explanation:
+   Demonstrates a simple C program structure with a `main` function and `printf` for output.
