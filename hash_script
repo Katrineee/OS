@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script to hash a 4-digit integer using SHA-256
 if [ $# -ne 1 ]; then
-    echo "Usage: $0 <4-digit-integer>"
+    echo "Usage: $0 <9886>"
     exit 1
 fi
 
